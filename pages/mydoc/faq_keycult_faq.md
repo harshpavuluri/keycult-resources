@@ -245,7 +245,7 @@ This is meant to be a collection of commonly asked questions and their answers. 
                         </div>
                         <div id="collapse16" class="panel-collapse collapse">
                             <div class="panel-body">
-                                We try to maintain a steady inventory of PCBs and plates available for our boards. If a PCB or plate is out of stock now, it'll be restocked in the near future.
+                                We usually try to maintain a steady inventory of PCBs and plates available for our boards. Because of the chip shortage, we are no longer able to provide extra PCBs for the time being. You can always check out our friend https://salvun.com/ who carries graphite PCBs that are compatible with Keycult boards. 
                             </div>
                         </div>
                     </div>
@@ -284,7 +284,20 @@ This is meant to be a collection of commonly asked questions and their answers. 
                         </div>
                         <div id="collapse19" class="panel-collapse collapse">
                             <div class="panel-body">
-                                Depending on the revision and form factor, each board will have different ways to identify authenticity. The most clear cut way to get an authentic Keycult is through purchasing through Keycult. If you are ever unsure if a Keycult is real or not, please feel free to reach out to our Discord and ask. 
+                                The most clear cut way is to purchase from Keycult directly. We understand there still might be some concerns with aftermarket purchases, so it would be best to ask about provenance IE order confirmation email, auth card, etc. If you are ever unsure if a Keycult is real or not, please feel free to DM our Discord moderators or Keepers.
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /.panel -->
+                      <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <h4 class="panel-title">
+                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" href="#collapse20">Are Keycult plates backwards compatible?</a>
+                            </h4>
+                        </div>
+                        <div id="collapse20" class="panel-collapse collapse">
+                            <div class="panel-body">
+                                For the most part, yes. Newer revisions using PTFE alignment pins will have cut outs for those pins in their plates. Older revisions that do not support alignment pins can still use these new plates but newer revisions that use alignment pins cannot use older plates without cutouts. If you don't use the pins, then no problem. 
                             </div>
                         </div>
                     </div>
